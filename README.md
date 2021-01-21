@@ -1,3 +1,3 @@
-# MLproject's GUI is built via streamlit 
-# The ML Project will be shown as below:
+# MLproject's GUI is built via Streamlit.
+# It will be shown as below:
 ![](mlproject.png)
